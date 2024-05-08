@@ -1,3 +1,4 @@
 ﻿23456789
 aditya anand
 anant
+This is an example of merge conflicts.
