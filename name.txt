@@ -1,7 +1,0 @@
-#!/bin/sh
-Aditya Anand
-Ananat
-KuNAL 
-Prince
-
-exec vim "$@"
